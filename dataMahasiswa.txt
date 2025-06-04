@@ -1,0 +1,7 @@
+
+
+
+NIM = 20240040005
+Nama = akmalllll
+Alamat = aoisicda,opvsv
+Kelas = TI23
